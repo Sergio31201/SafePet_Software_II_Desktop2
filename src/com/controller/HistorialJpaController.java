@@ -22,7 +22,7 @@ import javax.persistence.EntityManagerFactory;
 
 /**
  *
- * @author Cristian Camilo Rodriguez
+ * @author Equipo Malware
  */
 public class HistorialJpaController implements Serializable {
 

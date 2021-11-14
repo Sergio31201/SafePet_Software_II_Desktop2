@@ -21,7 +21,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Catalina londoño
+ * @author Equipo Malware
  */
 @Entity
 @Table(name = "comprobante")

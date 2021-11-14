@@ -18,7 +18,7 @@ import javax.persistence.criteria.Root;
 
 /**
  *
- * @author Juan Gabriel Nieto Perdomo
+ * @author Equipo Malware
  */
 public class EmpleadoJpaController implements Serializable {
 

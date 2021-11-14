@@ -19,7 +19,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author EQUIPO
+ * @author Equipo Malware
  */
 @Entity
 @Table(name = "empleado")

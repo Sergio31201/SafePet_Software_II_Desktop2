@@ -22,7 +22,7 @@ import javax.persistence.EntityManagerFactory;
 
 /**
  *
- * @author Catalina londoño
+ * @author Equipo Malware
  */
 public class AfiliadoJpaController implements Serializable {
 

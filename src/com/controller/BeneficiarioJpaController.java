@@ -21,7 +21,7 @@ import javax.persistence.EntityManagerFactory;
 
 /**
  *
- * @author Juan Gabriel Nieto Perdomo
+ * @author Equipo Malware
  */
 public class BeneficiarioJpaController implements Serializable {
 
