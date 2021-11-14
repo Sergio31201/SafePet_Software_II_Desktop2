@@ -21,7 +21,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author EQUIPO
+ * @author Cristian Camilo Rodriguez
  */
 @Entity
 @Table(name = "historial")
