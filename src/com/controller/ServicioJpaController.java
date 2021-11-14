@@ -21,7 +21,7 @@ import javax.persistence.EntityManagerFactory;
 
 /**
  *
- * @author EQUIPO
+ * @author Equipo Malware
  */
 public class ServicioJpaController implements Serializable {
 
