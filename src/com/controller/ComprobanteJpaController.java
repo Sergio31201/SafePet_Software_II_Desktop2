@@ -20,7 +20,7 @@ import javax.persistence.EntityManagerFactory;
 
 /**
  *
- * @author EQUIPO
+ * @author Juan Gabriel Nieto Perdomo
  */
 public class ComprobanteJpaController implements Serializable {
 
